@@ -1,0 +1,14 @@
+{
+  "name": "01-Geocoder",
+  "version": "1.0.0",
+  "main": "lib/app.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "gmaps": "^0.4.24",
+    "webpack": "^4.29.5"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
